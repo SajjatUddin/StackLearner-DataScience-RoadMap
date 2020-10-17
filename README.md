@@ -12,6 +12,7 @@
 1. Linear Algebra for Machine Learning - 
 
 [https://www.youtube.com/watch?v=tVQZvJwi-ec]
+
 (https://www.youtube.com/watch?v=tVQZvJwi-ec)
 
 2. Linear Algebra - Khan Academy - 
@@ -20,11 +21,13 @@
 
 (https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 
+
 3 . Machine Learning — Andrew Ng, Stanford University - 
 
 [https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN]
 
 (https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
 
 4. Hands-On Machine Learning with Scikit-Learn and TensorFlow - 
 
@@ -32,19 +35,23 @@
 
 (https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
 
+
 5. হাতেকলমে মেশিন লার্নিং - 
 
 [https://rakibul-hassan.gitbook.io/mlbook-titanic/]
 
 (https://rakibul-hassan.gitbook.io/mlbook-titanic/)
 
-6. মেশিন লার্নিং অ‍্যালগরিদম - 
+
+6. মেশিন লার্নিং অ্যালগরিদম - 
 
 [https://www.rokomari.com/book/173164/machine-learning-algorithm]
 
 (https://www.rokomari.com/book/173164/machine-learning-algorithm)
 
+
 চাইলে একটা বিশাল রোডম্যাপ দেখতে পারেন , ভয় পেলে আমি কোনোভাবেই দায়ী নয় 😜- 
+
 
 [https://github.com/chris-chris/ml-engineer-roadmap/blob/master/img/ml-engineer.png]
 
