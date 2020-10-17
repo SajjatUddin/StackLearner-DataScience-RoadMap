@@ -23,7 +23,7 @@
 (https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 
 
-3 . Machine Learning — Andrew Ng, Stanford University - 
+3. Machine Learning — Andrew Ng, Stanford University - 
 
 [https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN]
 
